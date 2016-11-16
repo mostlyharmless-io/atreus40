@@ -24,8 +24,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID      0xA1E5
 #define DEVICE_VER      36
 #define MANUFACTURER    Mostly Harmless
-#define PRODUCT         Atreus40
-#define DESCRIPTION     Atreus mechanical keyboard - Designed by technomancy
+#define PRODUCT         Atreus42
+#define DESCRIPTION     Atreus42 mechanical keyboard - Designed by technomancy
 
 /* key matrix size */
 #define MATRIX_ROWS 4
